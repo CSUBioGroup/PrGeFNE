@@ -5,4 +5,4 @@ Description: Identifying disease-related genes is of importance for understandin
 
 The web tool is available at http://bioinformatics.csu.edu.cn/prgefne/
 
-Reference: Ju Xiang#, Ningrui Zhang#, Jiashuai Zhang, Xiaoyi Lv and Min Li, PrGeFNE: Predicting disease-related genes by fast network embedding, 2020, submitted to Methods.
+Reference: Ju Xiang#, Ningrui Zhang#, Jiashuai Zhang, Xiaoyi Lv and Min Li, PrGeFNE: Predicting disease-related genes by fast network embedding, 2020, Methods, https://doi.org/10.1016/j.ymeth.2020.06.015.
